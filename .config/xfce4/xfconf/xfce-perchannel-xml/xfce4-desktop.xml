@@ -26,12 +26,12 @@
       <property name="monitorVirtual1" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
+          <property name="image-style" type="int" value="4"/>
           <property name="last-image" type="string" value="/home/kanashi/.config/background.jpg"/>
           <property name="rgba1" type="array">
-            <value type="double" value="1.000000"/>
-            <value type="double" value="1.000000"/>
-            <value type="double" value="1.000000"/>
+            <value type="double" value="0.235294"/>
+            <value type="double" value="0.262745"/>
+            <value type="double" value="0.294118"/>
             <value type="double" value="1.000000"/>
           </property>
           <property name="backdrop-cycle-enable" type="bool" value="false"/>
