@@ -1,0 +1,20 @@
+
+#pulseaudio-button>image {
+    -gtk-icon-transform: scale(0.5);
+}
+
+#xfce4-notification-plugin>image {
+    -gtk-icon-transform: scale(0.5);
+}
+
+#xfce4-clipman-plugin image {
+    -gtk-icon-transform: scale(0.5);
+}
+
+.tasklist button:hover {
+    background-color: #6c578f;
+}
+
+.xfce4-panel {
+    border-radius: 0;
+}
