@@ -11,6 +11,10 @@
     -gtk-icon-transform: scale(0.5);
 }
 
+#pulseaudio-button image {
+    -gtk-icon-transform: scale(0.5);
+}
+
 .tasklist button:hover {
     background-color: #6c578f;
 }
