@@ -11,7 +11,7 @@
     -gtk-icon-transform: scale(0.5);
 }
 
-#pulseaudio-button image {
+#pulseaudio-button box image {
     -gtk-icon-transform: scale(0.5);
 }
 
